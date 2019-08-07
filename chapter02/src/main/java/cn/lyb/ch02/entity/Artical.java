@@ -8,8 +8,8 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.util.Date;
 
 /**
- * @author zhengjianc
- * @since  2019/8/6 23:53
+ * @author lyb
+ * @since 2019/8/6 23:53
  */
 @Data
 @Accessors(chain = true)
