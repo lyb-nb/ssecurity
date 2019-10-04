@@ -1,0 +1,8 @@
+server:
+  port: 9988
+
+spring:
+  application:
+    name: ssecurity
+  thymeleaf:
+    cache: false
